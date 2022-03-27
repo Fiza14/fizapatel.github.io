@@ -372,6 +372,13 @@ h6{ font-size: 16px;}
 	border:none;
 }
 
+#status.success{
+	background-color: rgb(211,250,153);
+}
+
+#status.error{
+	background-color: rgb(250,129,92);
+}
 
 @media screen and (max-width:  1200 px){
 	.main-container{
