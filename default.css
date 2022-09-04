@@ -271,8 +271,19 @@ grid-column-gap: 0px;
 grid-row-gap: 0px;
 padding-left: 200px;
 padding-right: 200px;
-padding-bottom:10px;
 }
+
+.topexp{
+display: grid;
+grid-template-columns: 1fr;
+grid-template-rows: 1fr;
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+padding-left: 100px;
+padding-right: 100px;
+padding-bottom:20px;
+}
+
 .about-wrapper{
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(320px,1fr));
