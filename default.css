@@ -402,7 +402,7 @@ padding-bottom:20px;
 
 @media screen and (max-width: 800px){
 	.main-container{
-		width : 95%;
+		width : 75%;
 	}
 	.intro-wrapper{
 		grid-template-columns: 1fr;
@@ -421,7 +421,7 @@ padding-bottom:20px;
 
 @media screen and (max-width: 400px){
 	.main-container{
-		width : 95%;
+		width : 50%;
 	}
 	#preview-shadow{
 		max-width: 100px;
