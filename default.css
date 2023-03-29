@@ -414,11 +414,10 @@ padding-bottom:20px;
 	.right-column{
 		justify-content: center;
 	}
-
-	.moreinfo{
-		width: 280px;
-	}
-
+    
+    #moreaboutme{
+    	width: 350px;
+    }
 }
 
 @media screen and (max-width: 400px){
@@ -432,9 +431,7 @@ padding-bottom:20px;
 		width: 280px;
 
 	}
-
-	.moreinfo{
-		width: 280px;
-	}
-
+	 #moreaboutme{
+    	width: 280px;
+    }
 }
