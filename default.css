@@ -402,6 +402,11 @@ padding-bottom:20px;
 
 @media screen and (max-width: 800px){
 	
+
+	.main-container{
+		width : 60%;
+	}
+
 	.intro-wrapper{
 		grid-template-columns: 1fr;
 		grid-template-areas: 
@@ -418,6 +423,11 @@ padding-bottom:20px;
 }
 
 @media screen and (max-width: 400px){
+
+	.main-container{
+		width : 50%;
+	}
+
 	#preview-shadow{
 		max-width: 100px;
 		height: 180px;
