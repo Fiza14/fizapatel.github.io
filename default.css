@@ -415,13 +415,6 @@ padding-bottom:20px;
 		justify-content: center;
 	}
     
-    #moreaboutme{
-    	width: 350px;
-    }
-
-    #skills{
-    	width:350px;
-    }
 }
 
 @media screen and (max-width: 400px){
@@ -435,11 +428,4 @@ padding-bottom:20px;
 		width: 280px;
 
 	}
-	 #moreaboutme{
-    	width: 280px;
-    }
-
-     #skills{
-    	width:280px;
-    }
 }
