@@ -415,6 +415,10 @@ padding-bottom:20px;
 		justify-content: center;
 	}
 
+	.moreinfo{
+		width: 280px;
+	}
+
 }
 
 @media screen and (max-width: 400px){
@@ -427,6 +431,10 @@ padding-bottom:20px;
 	#preview{
 		width: 280px;
 
+	}
+
+	.moreinfo{
+		width: 280px;
 	}
 
 }
